@@ -9,6 +9,10 @@
   "author": "Ahtsho",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^8.19.0",
     "fastify": "^4.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
